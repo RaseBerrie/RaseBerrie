@@ -3,7 +3,8 @@
 
 <pre>
 Hello! 😎 This is <b>RaseBerrie</b>,
-EWHA Womans Univ. undergraduate student and developing developer.
+EWHA Womans Univ. undergraduate student &
+currently developing developer.
 </pre>
 
 <!--- widgets ---!>
