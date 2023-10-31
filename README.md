@@ -3,8 +3,8 @@
 
 <pre>
 Hello! 😎 This is <b>RaseBerrie</b>,
-EWHA Womans Univ. undergraduate student &
-currently developing developer.
+Graduates of EWHA Womans University &
+currently developing WHITEHAT HACKER.
 </pre>
 
 <!--- widgets ---!>
