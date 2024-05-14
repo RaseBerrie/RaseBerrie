@@ -3,7 +3,6 @@
 
 <pre>
 Hello! 😎 This is <b>RaseBerrie</b>,
-Graduates of EWHA Womans University &
 currently developing 🤍 <b>WHITE-HAT HACKER</b>.
 </pre>
 
