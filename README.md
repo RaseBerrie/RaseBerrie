@@ -5,7 +5,7 @@
 Hello! 😎 This is <b>RaseBerrie</b>,
 currently developing 🤍 <b>WHITE-HAT HACKER</b>.
 
-<b>✉️CONTACT ME!:</b> yj.kim@itforest.net
+<b>[✉️CONTACT ME!]</b> yj.kim@itforest.net
 </pre>
 
 
